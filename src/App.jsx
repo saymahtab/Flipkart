@@ -14,7 +14,7 @@ import ErrorPage from './components/category/ErrorPage';
 
 function App() {
   const [products, setProducts] = useState([]);
-  const [moreProducts, setMoreProducts] = useState([]);
+  const [moreProducts, setMoreProducts] = useState([])
   const [menClothes, setMenClothes] = useState([]);
   const [womenClothes, setWomenClothes] = useState([]);
   const [electronics, setElectronics] = useState([]);
